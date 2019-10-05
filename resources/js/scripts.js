@@ -82,8 +82,4 @@ $(document).ready(function() {
       icon.removeClass('ion-md-close');
     }
   });
-
-
-
-
 });

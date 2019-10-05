@@ -388,7 +388,7 @@
 
 
         <!-- Code for making contact form work -->
-        <!-- <div class="row">
+        <div class="row">
 
           <?php
           if($_GET['success'] == 1) {
@@ -400,7 +400,7 @@
           }
 
           ?>
-        </div> -->
+        </div>
 
         <div class="row">
           <div class="col span-1-of-3">
